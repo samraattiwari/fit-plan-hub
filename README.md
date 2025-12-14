@@ -36,3 +36,9 @@ It provides an intuitive admin dashboard to manage members, attendance, payments
 1. Clone the repository
    ```bash
    git clone https://github.com/samraattiwari/fit-pla
+   ## How to Run Project
+1. Install XAMPP
+2. Copy project to htdocs
+3. Import database from /database/gymnsb.sql
+4. Start Apache & MySQL
+5. Open http://localhost/Gym-System
